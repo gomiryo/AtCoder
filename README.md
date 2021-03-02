@@ -7,5 +7,6 @@
 ## cpp(c++) 
 
 ## php
- - [AtCoderの初歩的な問題](./php/a01_Welcome_to_AtCoder.php) 「Welcome to AtCoder」
- - 
+ - src:[AtCoderの初歩的な問題](./php/a01_Welcome_to_AtCoder.php) 「Welcome to AtCoder」
+ - src:[SOMPO HD プログラミングコンテスト2021(AtCoder Beginner Contest 192)](https://atcoder.jp/contests/abc192)
+  - src:[A - Star](./php/a02.php)「[A - Star](https://atcoder.jp/contests/abc192/tasks/abc192_a)」
