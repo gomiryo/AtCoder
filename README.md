@@ -8,4 +8,4 @@
 
 ## php
 
- - [AtCoderの初歩的な問題](/AtCoder/blob/main/php/a01_Welcome_to_AtCoder.php)
+ - [AtCoderの初歩的な問題](./php/a01_Welcome_to_AtCoder.php)
