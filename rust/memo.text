@@ -1,0 +1,10 @@
+
+# 参考URL
+https://gist.github.com/gushernobindsme/4cec7a02bdaa6f8dd7fe4f13a1974b30
+
+# rust　install
+curl https://sh.rustup.rs -sSf | sh
+<Enter>
+source ~/.bashrc # .bashrc 反映
+
+
